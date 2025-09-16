@@ -1,4 +1,4 @@
-Python Fundamentos  
+Praticando Python e seus Fundamentos  
 
 Este repositório contém exemplos e exercícios simples em Python, criados junto com a Alura para praticar lógica de programação e conceitos fundamentais da linguagem.  
 
